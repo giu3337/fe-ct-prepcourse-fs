@@ -5,7 +5,7 @@
 const nuevoString = "Giuseppe";
 
 // Crea una variable de tipo number.
-const nuevoNumero = null;
+const nuevoNumero = 33;
 
 // Crea una variable de tipo boolean.
 const nuevoBoolean = null;
