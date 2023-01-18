@@ -10,7 +10,7 @@
 let suma = 0; 
 // for (let i = 0; i < 5; i++) {
 //     suma = suma + i; 
-//     console.log('Variable de iteracion ' , i);   /// sabemos cantidad de pasos 
+//     console.log('Variable de iteracion ' , i);   /// sabemos cantidad de pasos segundo parametro 
 // }
 
 //  console.log(suma);
@@ -24,4 +24,8 @@ while (suma < 3) {
 }
 
 
+function sacar3digitos (num) {
+    return`${num}`.length
+}
 
+console.log(sacar3digitos(22));
